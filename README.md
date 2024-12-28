@@ -43,7 +43,7 @@ The hotel booking cancellation analysis reveals critical insights that can guide
 - August and July are peak months for City and Resort Hotels, respectively, with couples being the dominant guest type. Focusing on marketing efforts during these periods can maximize bookings.
 - Room preference mismatches (15%) highlight areas for improvement in reservation management and room assignment processes.
 
-# THANK YOU FOR YOUR TIME
+## THANK YOU FOR YOUR TIME
 
   
 
